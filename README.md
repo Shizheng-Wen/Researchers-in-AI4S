@@ -2,7 +2,7 @@
 
 This is the summary for researchers in AI for Science. Currently, the updating list only contained people in the field of AI + applied mathematics and mechanics sorted by Shizheng Wen. Other fields like AI + Molecular dynamics, materials/chemistry/biology will be sorted out soon.
 
-(:notebook: Please ignore the note, which is some characteristics for me to remember.) 
+(:notebook: Please notice that this list is very subjective, it only contained the researchers the creator so far. Also, please ignore the note, which is only some characteristics for me to remember.) 
 
 # :man_scientist:Mainstream ML
 
