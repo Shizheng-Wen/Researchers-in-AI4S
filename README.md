@@ -1,3 +1,9 @@
+# Researchers-in-AI4S
+
+This is the summary for researchers in AI for Science. Currently, the updating list only contained people in the field of AI + applied mathematics and mechanics sorted by Shizheng Wen. Other fields like AI + Molecular dynamics, materials/chemistry/biology will be sorted out soon.
+
+(:notebook: Please ignore the note, which is some characteristics for me to remember.) 
+
 # :man_scientist:Mainstream ML
 
 Most of the following researchers have a strong background in applied mathematics (numerical analysis and dynamical systems) and data science (machine learning, optimization and statistics), and come from the department of computer science and mathematics in different universities or research institutes (DeepMind, MSR, Google and etc.). They are in the mainstream machine learning community and perfer to publish paper in machine learning conference.
@@ -51,7 +57,7 @@ Follwing researchers often have a strong domain knowledge in mechanics (solid or
 |          [Dennis M. Kochmann](https://mm.ethz.ch/)           |           Prof. @ETH           |               Solid Mechanics, Materials + ML                |                       Once at Caltech                        |
 |     [Karthik Duraisamy](https://caslab.engin.umich.edu/)     |          Prof. @Umich          |                       Turbulence + ML                        | First-author of ARFM ('Turbulence modeling in the age of data') |
 |        [WaiChing Sun](https://www.poromechanics.org/)        |        Prof. @Columbia         |        Solid Mechanics; computational mechanics + ML         | Author of Manifold embedding data-driven mechanics; especially like publishing paper in CMAME |
-|                 [Heng Xiao](Fluid Mechanics)                 | Prof. @University of Stuttgart |               Fluid Mechanics (Aerospace) + ML               |         once at VT, co-author of ARFM with Duraisamy         |
+| [Heng Xiao](https://scholar.google.com/citations?user=OhOwpxwAAAAJ&hl=en) | Prof. @University of Stuttgart |               Fluid Mechanics (Aerospace) + ML               |         once at VT, co-author of ARFM with Duraisamy         |
 | [Eleni Chatzi](https://www.linkedin.com/in/ACoAAAI7IeABSMsWxcm7jCCOa4j1Z_p5laVXan0) |           Prof. @ETH           |            Structural Mechanics & Monitoring + ML            |                   Got her PhD in Columbia                    |
 |        [Laura De Lorenzis](https://compmech.ethz.ch/)        |           Prof. @ETH           |              Solid/Computational Mechanics + ML              |                     New Editor in CMAME                      |
 |            [Sid Kumar](https://www.mech-mat.com/)            |     Assistant Prof. @Delft     |                 Mechanics and Materials + ML                 |                     Student of Lorenzis                      |
