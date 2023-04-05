@@ -36,6 +36,7 @@ Most of the following researchers have a strong background in applied mathematic
 |[Jianfeng Lu](https://services.math.duke.edu/~jianfeng/)| Associate Prof. @Duke | AI+PDE/Science | Phd Students of Weinan E |
 |[Weinan E](https://scholar.google.com/citations?user=i2mOt14AAAAJ&hl=en)| Prof. @Princeton | AI+Science(PDE/MD) | Propose the concept of AI + Science |
 |[Hod Lipson](https://www.hodlipson.com/)| Prof. @Columbia | Robotics+Hidden variables discovery | Distill natural laws from data [Science](https://www.science.org/doi/10.1126/science.1165893) [Nature CS](https://www.creativemachineslab.com/hidden-variables.html) |
+|[Evangelos Theodorou](https://sites.gatech.edu/acds/)| Prof. @ Gatech | Deep Learning, Dynamic & Control, Stochastic process | in the department of Aerospace Engineering |
 
 # :man_scientist:Domain field ML
 
@@ -91,6 +92,7 @@ Following people are PhD candidates or just have finished their PhD degrees rece
 |          [Zongyi Li](https://zongyi-li.github.io/)           |         Caltech          |                        Scientific ML                         |                             FNO                              |
 | [Silviu-Marian Udrescu](https://scholar.google.com/citations?user=maphp-0AAAAJ&hl=en) |           MIT            |         Particle Physics and Artificial Intelligence         |                          AI Feynman                          |
 |       [Konstantin Rusch](https://konstantinrusch.com/)       |           ETH            |                  Physcis (DS) for ML (GNN)                   |              Graph-Coupled Oscillator Networks               |
+|           [Ben Moseley](https://benmoseley.blog/)            |           ETH            |   PINN; The application of PINN is real influential field    |                 Finite Basis PINN (FBPINNS):                 |
 |         [Miles Cranmer](https://astroautomata.com/)          |        Princeton         |            Symbolic regression; AI; Astrophysics;            | Rediscovering orbital mechanics with machine learning; Lagrangian NN |
 |      [Samuel Lanthaler](https://slanthaler.github.io/)       |         Caltech          |     Numerical Analysis (NA) and NA for operator learning     |                 Error estimates for DeepOnet                 |
 |      [Nikola B. Kovachki](https://kovachki.github.io/)       |         Caltech          | machine learning methods for the physical sciences in theory and practice |         Approximation theory and error bound for FNO         |
@@ -106,6 +108,8 @@ Following people are PhD candidates or just have finished their PhD degrees rece
 | [Mattia Cenedese](https://www.linkedin.com/in/mattiacenedese/?trk=public_profile_samename-profile&originalSubdomain=ch) |           UBS            |                 Data-driven Dynamical System                 | Data-driven modeling and prediction of non-linearizable dynamics via spectral submanifolds |
 |            [Boyuan Chen](http://boyuanchen.com/)             |           Duke           |        Robotics+Hidden variables discovery+AI4Science        |             AP at duke, Hod Lipson's PhD student             |
 |    [Zhengyu Huang](https://www.its.caltech.edu/~dzhuang/)    |         Caltech          | Numerical Methods+Machine Learning+Application (Fluid-structure interaction) | PhD advisor: [Charbel Farhat](https://web.stanford.edu/group/frg/) PostDoc advisor: [Andrew Stuart](http://stuart.caltech.edu/) |
+|          [Guan-Horng Liu](https://ghliu.github.io/)          |          Gatech          |      Scalable computational methods for Neural Dyanmics      | PhD advisor: [Evangelos Theodorou](https://scholar.google.com/citations?user=dG9MV7oAAAAJ&hl=en) and [Molei Tao](https://mtao8.math.gatech.edu/) |
+| [Mike Yan Michelis](https://srl.ethz.ch/the-group/people/mike-yan-michelis.html) |           ETH            |                       AI for robotics                        |         Differentiable Simulation for soft robotics          |
 
 **Thomas Kipf**
 
